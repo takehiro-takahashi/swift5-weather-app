@@ -81,6 +81,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="backgroundView" destination="tCK-Po-Dax" id="ZDi-Ff-gdU"/>
                         <outlet property="conditionImageView" destination="PfH-gU-ogC" id="hPs-OO-Xng"/>
                         <outlet property="conditionLabel" destination="tRs-fh-2PR" id="ggr-Xb-ZxR"/>
                         <outlet property="dayLabel" destination="lub-Ib-Ktz" id="tq5-gL-9bU"/>
